@@ -1,0 +1,17 @@
+{
+  "name": "youtube-information",
+  "version": "1.0.0",
+  "description": "Youtube Information Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "zédyN",
+  "license": "Apache Licesne 2.0",
+  "dependencies": {
+    "discord.js": "14.7.1",
+    "dotenv": "16.0.3",
+    "yt-channel-info": "3.2.1"
+  }
+}
