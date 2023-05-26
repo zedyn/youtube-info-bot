@@ -55,13 +55,13 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm start
 ```
 
 
 ## Support
 
-For support, dm [zédyN#1001](https://discord.com/users/559116776257093653) on Discord.
+For support, dm [zédyN#1001](https://discord.com/users/1096540990162088058) on Discord.
 
 
 ## License
